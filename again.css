@@ -1,0 +1,158 @@
+.shoe{
+    height: 30px;
+  
+}
+nav{
+    height: 90px;
+    margin-bottom: 0 ;
+}
+.btn-warning{
+    border: 1px solid rgb(228, 102, 18);
+    border-radius: 0 20px 25px 0;
+}
+.omo{
+    margin-left: 250px;
+    color: #000;
+    width: 100px;
+    font-size: 20px;
+    
+}
+.jjj{
+    color: #000;
+    width: 100px;
+    margin: 20px;
+    text-decoration: #000;
+}
+.jjj:hover{
+    background-color: #646363;
+    text-decoration: white;
+    transform: rotate(90deg);
+    
+}
+.jumbotron{
+    background-color:#0d6efd; 
+    height: 500px;
+    width: 100%;
+    margin-top: 80px;
+
+}
+.lar{
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: 150px;
+  margin-left: 1000px;
+}
+/* .lefft{
+    float: left;
+    align-items: left;
+    border: 1px solid white;
+    width: 300px;
+} */
+.cart{
+    margin-right: 50px;
+    color: #000000;
+    width: 100px;
+    height: 50px;
+    width: 15px;
+    color: #000;
+    margin-right: 50px;
+    margin-top: 0;
+}
+.bata{
+
+    margin-left: 1000px;
+    margin-top: -400px;
+    transform: rotate(-20deg); 
+}
+.marr{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+
+
+}
+.nik{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+.allo{
+    margin-top: -400px;
+    float: left;
+    line-height: 30px;
+    width: 25%;
+}
+.line{
+    width: 200px;
+    color: white;
+    margin-bottom: 35px;
+}
+.sub{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+}
+.lom{
+    width: 400px;
+    color: white;
+    text-align: left;
+}
+.igf{
+    float: right;
+    
+}
+.noww{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.fea{
+    margin-top: 70px;
+    font-weight: bolder;
+    color: #000;
+    font-style: normal;
+    font-size: 15px;
+}
+/* .hin{
+   
+}
+.pin{ 
+    color: #000000;
+}
+.gig{
+    color: #000;
+
+} */
+.pun{
+    font-weight: bolder;
+    font-size: 20px;
+    font-style: normal;
+}
+.moni{
+    float: right;
+    margin-top: -20px;
+
+}
+.seb{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.fear{
+    margin-bottom: 50px;
+}
+@media  screen and (min-width:768px){
+.allo{
+    width: 25%;
+    height: auto;
+}
+/* .igf{
+    width: 25%;
+    height: auto;
+} */
+}
